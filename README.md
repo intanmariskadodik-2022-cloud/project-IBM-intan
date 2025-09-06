@@ -9,7 +9,7 @@ Analisis dilakukan untuk menemukan insight yang dapat digunakan dalam:
 - Riset akademis terkait psikologi kepribadian  
 
 ## 📂 Raw Dataset Link
-[Personality Dataset (CSV)](./personality_datasert.csv)
+[Personality Dataset (CSV)](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
 
 ## 💡 Insight & Findings
 ### Introvert
